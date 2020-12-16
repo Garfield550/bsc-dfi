@@ -1,4 +1,4 @@
-// import BigNumber from "bignumber.js";
+import BigNumber from "bignumber.js";
 // id: '池子id',
 // name: '池子名字',  
 // token: '池子代币',
@@ -89,8 +89,8 @@ export const pools = [
     defaultApy: "39.54",
     pricePerFullShare: 1,
     pastPricePerFullShare: 1
-  },
-  {
+  }
+  ,{
     id: 'eth',
     name: 'ETH',  
     token: 'ETH',
@@ -108,8 +108,7 @@ export const pools = [
     defaultApy: "39.54",
     pricePerFullShare: 1,
     pastPricePerFullShare: 1
-  },
-  {
+  },{
     id: 'yfii',
     name: 'YFII',  
     token: 'YFII',
@@ -122,8 +121,8 @@ export const pools = [
     tokenDescriptionUrl: '',
     tokenDescriptionUrl2: '',
     earnedToken: 'iYFII',
-    earnedTokenAddress: '0xf7F15Ad5fCc7D1C998b849f7F62419cA6007FA2b',
-    earnContractAddress: '0xf7F15Ad5fCc7D1C998b849f7F62419cA6007FA2b',
+    earnedTokenAddress: '0x57Ea66bb8F83D09127b792FDf0af4A94fc5D6314',
+    earnContractAddress: '0x57Ea66bb8F83D09127b792FDf0af4A94fc5D6314',
     defaultApy: "39.54",
     pricePerFullShare: 1,
     pastPricePerFullShare: 1
