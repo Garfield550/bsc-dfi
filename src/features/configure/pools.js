@@ -89,8 +89,8 @@ export const pools = [
     defaultApy: "39.54",
     pricePerFullShare: 1,
     pastPricePerFullShare: 1
-  }
-  ,{
+  },
+  {
     id: 'eth',
     name: 'ETH',  
     token: 'ETH',
@@ -105,6 +105,25 @@ export const pools = [
     earnedToken: 'iETH',
     earnedTokenAddress: '0xb98f8339CD3CD50701aCdE307875B78c373e6515',
     earnContractAddress: '0xb98f8339CD3CD50701aCdE307875B78c373e6515',
+    defaultApy: "39.54",
+    pricePerFullShare: 1,
+    pastPricePerFullShare: 1
+  },
+  {
+    id: 'yfii',
+    name: 'YFII',  
+    token: 'YFII',
+    tokenDescription: 'YFII',
+    tokenAddress: '0x7F70642d88cf1C4a3a7abb072B53B929b653edA5',
+    tokenDecimals: 18,
+    itokenDecimals: 18,
+    depostLimit:0,
+    depostAlert:'',
+    tokenDescriptionUrl: '',
+    tokenDescriptionUrl2: '',
+    earnedToken: 'iYFII',
+    earnedTokenAddress: '0xf7F15Ad5fCc7D1C998b849f7F62419cA6007FA2b',
+    earnContractAddress: '0xf7F15Ad5fCc7D1C998b849f7F62419cA6007FA2b',
     defaultApy: "39.54",
     pricePerFullShare: 1,
     pastPricePerFullShare: 1
