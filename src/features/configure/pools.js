@@ -126,23 +126,5 @@ export const pools = [
     defaultApy: "39.54",
     pricePerFullShare: 1,
     pastPricePerFullShare: 1
-  },{
-    id: 'fil',
-    name: 'FIL',  
-    token: 'FIL',
-    tokenDescription: 'FIL',
-    tokenAddress: '0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153',
-    tokenDecimals: 18,
-    itokenDecimals: 18,
-    depostLimit:0,
-    depostAlert:'',
-    tokenDescriptionUrl: '',
-    tokenDescriptionUrl2: '',
-    earnedToken: 'iFIL',
-    earnedTokenAddress: '0x8bcA4bE526b081390bDF37437a2EA11999Ed9C8D',
-    earnContractAddress: '0x8bcA4bE526b081390bDF37437a2EA11999Ed9C8D',
-    defaultApy: "39.54",
-    pricePerFullShare: 1,
-    pastPricePerFullShare: 1
   }
 ]
